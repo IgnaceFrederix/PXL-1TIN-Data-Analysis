@@ -1,0 +1,20 @@
+mogelijke datatypes 
+integers
+string
+date
+decimal
+eerst () eerste getal geeft miniu wat er minstesns aantal karakters moet staan tweede maximum aantal karketes
+maar kan ook gewoon één getal worde ingegeven dan word het van0 tot u maxmimu dat je hebt ingegevne
+daarna 
+
+bv string(15) string met maximum 15 karakters
+string(1..30) string met minimum 1 waarde en maximum 30 karaketsts
+int(2),{1..24},not null = string met maximum twee karakters en de waarde zit tussen 1 en 24 en het moet atlijd worden ingevuld wordne
+
+string (4..20),{cash,overschrijving} een string met als mogelijkheden cash of overschriving en dus een minumum van 4 karkates van cash dus altijd het woord met minste carakters
+
+decimal(10,2) een getal met max 10 karakters en met twee na de komma dus 8 voor er 2 na
+
+
+date hoeft geen info bijgegevne te worden 
+
